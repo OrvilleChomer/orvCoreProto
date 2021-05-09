@@ -43,8 +43,8 @@ function OrvCore(optParams) {
     let sComponentName = ""; // blank if not a component
     let sCodePenId = "";
     let sCodePenView = "notAPen"
-    let sCurrentLibVer = "0.10"
-    let sLibAuthor = "Orville Chomer"
+    let sCurrentLibVer = "0.002"
+    let sLibAuthor = "Orville Paul Chomer"
     let sLibRepoPath = ""
     let bLocalHost = false;
     let sLocalAppName = "";
