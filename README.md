@@ -1,5 +1,5 @@
 # orvCoreProto
-orvCore Js Library. Some handy core functionality. At this point it is a working prototype.
+orvCore Js Library. Some handy core functionality. At this point it is a *working prototype*.
 
 - Note that at this point, there are a bunch of stubs in here that do not have their functionality yet.
 - It does have error handling functionality which allows you to display nicely formatted error messages on the web page while working on the development of your site.
